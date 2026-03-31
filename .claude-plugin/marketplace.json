@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wp-agent-skills",
+  "description": "AI agent skills for managing a WordPress personal site — install, FSE theme setup, page building, media, SEO, security hardening, and health checks.",
+  "owner": {
+    "name": "AntonySilverhand"
+  },
+  "plugins": [
+    {
+      "name": "wp-agent-skills",
+      "description": "A complete skill package for AI-managed WordPress sites. Covers the full lifecycle: install → theme → patterns → pages → media → SEO → security → QA. Built for Full Site Editing (FSE) with GSAP animations and cross-OS support (Windows/macOS/Linux).",
+      "author": {
+        "name": "AntonySilverhand"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

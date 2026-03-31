@@ -1,0 +1,6 @@
+{
+  "name": "wp-agent-skills",
+  "description": "AI agent skills for managing a WordPress personal site — install, theme setup, page building, media, SEO, security, and health checks. Built for Full Site Editing (FSE) + GSAP animations.",
+  "version": "1.0.0",
+  "skills": "./skills/"
+}

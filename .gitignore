@@ -1,0 +1,8 @@
+.DS_Store
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+wp-content/uploads/
+wp-content/database/
+.env
+*.log
