@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="assets/happy-birthday.png" alt="Happy Birthday Lavon — from BP Debate Union" width="480"/>
+  <br/>
+  <sub>Happy Birthday, Lavon 🎂 — with love from BP Debate Union. One of our finest past presidents. This repo is your gift.</sub>
+</div>
+
+---
+
 # wp-agent-skills
 
 AI agent skills for managing a WordPress personal site — from zero to live with a single command.
