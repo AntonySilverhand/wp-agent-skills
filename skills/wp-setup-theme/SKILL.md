@@ -14,6 +14,8 @@ allowed-tools: Bash Read Write
 
 Scaffold the full FSE theme with GSAP animation infrastructure, fluid design tokens, and block pattern registry. Run once at setup; safe to re-run (updates, doesn't overwrite content).
 
+> **Design first?** Before scaffolding, consider running `/theme-factory` and `/frontend-design` to choose a palette and aesthetic direction. See [companion-skills.md](references/companion-skills.md) for the full list of design and animation skills that pair with this package.
+
 ## Environment
 
 ```bash

@@ -15,6 +15,8 @@ allowed-tools: Bash Read Write
 Create or update a named block pattern. Patterns are the site's design vocabulary —
 reusable sections assembled into pages.
 
+> **Before building a new pattern**, run `/frontend-design` to lock in the aesthetic direction. For GSAP animation guidance, see [companion-skills.md](../wp-setup-theme/references/companion-skills.md).
+
 ## Pattern vocabulary
 
 | Slug | Purpose |
